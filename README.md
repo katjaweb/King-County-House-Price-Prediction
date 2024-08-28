@@ -23,7 +23,7 @@ This data science project is about predicting house prices based on various feat
 - **Matplotlib**: Required for data visualization.
 - **Seaborn**: Required for statistical data visualization.
 - **scikit-learn**: Required for machine learning models, data preprocessing, and evaluation metrics.
-  - Includes: `ColumnTransformer`, `Pipeline`, `SimpleImputer`, `StandardScaler`, `OneHotEncoder`, `FunctionTransformer`, `train_test_split`, `LinearRegression`, `Ridge`, `Lasso`, `RandomForestRegressor`, `SVR`, `GridSearchCV`, `KFold`, `cross_val_score`, `PCA`, `mean_absolute_error`, `mean_squared_error`, `r2_score`.
+  - Includes: `ColumnTransformer`, `Pipeline`, `SimpleImputer`, `StandardScaler`, `OneHotEncoder`, `FunctionTransformer`, `train_test_split`, `LinearRegression`, `Ridge`, `Lasso`, `RandomForestRegressor`, `GridSearchCV`, `KFold`, `cross_val_score`, `PCA`, `mean_squared_error`, `r2_score`.
 - **XGBoost**: Required for the XGBRegressor model.
 - **Other Python libraries**: Install all necessary Python libraries by running:
 ```bash
